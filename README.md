@@ -1,5 +1,5 @@
 # Web-Crawling
-1) Download libraries
+1)Download libraries
 requests, BeautifulSoup, lxml
 
 use the command 
